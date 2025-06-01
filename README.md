@@ -1,6 +1,6 @@
 # sql-customer-analytics-ecommerce
 
-```
+```bash
 export CONDA_ENV=customer-analytics-ecommerce
 
 # Create and activate a new conda environment
@@ -14,7 +14,7 @@ pip install -r requirements.txt
 jupyter lab
 ```
 
-# data (MIT license)
+# data
 
 This project uses the Northwind database (licensed under the MIT License).
 
