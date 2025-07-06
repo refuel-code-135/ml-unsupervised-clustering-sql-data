@@ -18,7 +18,7 @@ Copyright (c) 2016 JP White
 ## Set Up Analysis environment
 
 ```bash
-export CONDA_ENV=customer-analytics-ecommerce
+export CONDA_ENV=ml-unsupervised-clustering-sql-data
 
 # Create and activate a new conda environment
 conda create -n $CONDA_ENV python=3.12
