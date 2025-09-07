@@ -2,6 +2,15 @@
 
 ## Project Overview
 
+This project analyzes the Northwind database, a classic retail dataset containing orders, products, categories, and customer information.  
+The goal is to uncover sales patterns and customer/product segments through:  
+
+- Exploratory Data Analysis (EDA) of 14 relational tables
+- Identifying top-performing products and seasonal trends
+- Applying KMeans clustering to detect potential customer/product segments
+
+By combining SQL queries, traditional analysis, and machine learning, this notebook demonstrates a practical workflow for extracting business insights from relational data.  
+
 ## Notebook
 
 https://github.com/refuel-code-135/ml-unsupervised-clustering-sql-data/blob/main/notebooks/notebook.ipynb
